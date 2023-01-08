@@ -13,4 +13,4 @@ click OBJECT + S - scale
 ## Emulate Numberpad
 
 On Mac some of the hot keys will not work, so to emulate the numberpad you need to do the following:
-Edit-> Preferences->Input->Emulate Numpad
+```Edit-> Preferences->Input->Emulate Numpad```
