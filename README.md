@@ -10,6 +10,7 @@ This folder demonstrates my progress in learning 3D visualization with Blender, 
 ```click OBJECT + S``` - scale  <br />
 ```0``` - camera view
 ```SHIFT + A``` - add
+```TAB``` - edit mode
 
 
 ## Emulate Numberpad
@@ -40,3 +41,6 @@ There are two types of shading in Blender:
 ```Shade flat``` <br />
 <img width="387" alt="Screen Shot 2023-01-08 at 22 36 47" src="https://user-images.githubusercontent.com/79250896/211198995-32712a40-5eac-4aa3-90d2-e512c6bc0eef.png">
 
+### 0.3 Selecting mesh
+
+```TAB``` to go to the edit mode, then click on ```Toggle x-ray``` tool in right upper corner, now you can select an object / part of the object
