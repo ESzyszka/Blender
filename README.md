@@ -31,4 +31,12 @@ The scale will not be equal to 1 by default. This is something that you need to 
 <br />
 
 ### 0.2 Shading
-There are two types of shading in Blender: (1) Shade smooth (2) Shade flat
+There are two types of shading in Blender: 
+
+```Shade smooth```<br />
+<img width="368" alt="Screen Shot 2023-01-08 at 22 37 23" src="https://user-images.githubusercontent.com/79250896/211199021-c3d83346-a36f-45e8-aea1-72e2affb9b7e.png">
+
+
+```Shade flat``` <br />
+<img width="387" alt="Screen Shot 2023-01-08 at 22 36 47" src="https://user-images.githubusercontent.com/79250896/211198995-32712a40-5eac-4aa3-90d2-e512c6bc0eef.png">
+
