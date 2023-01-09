@@ -13,6 +13,7 @@ This folder demonstrates my progress in learning 3D visualization with Blender, 
 ```TAB``` - edit mode
 ```H``` - hide 
 ```OPTION + H ``` - reverse hide
+``` E ``` - extrude
 
 
 
