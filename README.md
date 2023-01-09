@@ -70,6 +70,15 @@ If you want to extend an object over another object you can use the snapping too
 
 ### Parenting items
  
-Select ```child item``` first 
+Select ```child item``` first, then ```COMMAND + P```, next select the parent object and do the same short cut. You first select objects that are surposed to follow the parent. 
 
+
+## 3D modelling terminology
+
+## 0.1 Unbiased vs biased rendering engine
+
+Cycles render engine (unbiased)
+EEvee render engine (biased/ real time)
+
+## 0.2 Raytracing
 
