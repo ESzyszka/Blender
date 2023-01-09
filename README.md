@@ -82,3 +82,7 @@ EEvee render engine (biased/ real time)
 
 ## 0.2 Raytracing
 
+## 0.3 Retopology
+
+Way of simplifying the polygons of a 3D model. It is used before animating 3D objects
+
