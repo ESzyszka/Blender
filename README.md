@@ -11,6 +11,9 @@ This folder demonstrates my progress in learning 3D visualization with Blender, 
 ```0``` - camera view
 ```SHIFT + A``` - add
 ```TAB``` - edit mode
+```H``` - hide 
+```OPTION + H ``` - reverse hide
+
 
 
 ## Emulate Numberpad
@@ -44,3 +47,9 @@ There are two types of shading in Blender:
 ### 0.3 Selecting mesh
 
 ```TAB``` to go to the edit mode, then click on ```Toggle x-ray``` tool in right upper corner, now you can select an object / part of the object
+
+### 0.4 Selecting vertices
+
+```TAB``` to enter the edit mode, then ```OPTION + SELECT``` - select only some vertices
+<img width="710" alt="Screen Shot 2023-01-09 at 14 00 46" src="https://user-images.githubusercontent.com/79250896/211243643-256bf46c-9fbb-4e30-a697-e937ef8f1b78.png">
+
