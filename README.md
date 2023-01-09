@@ -53,3 +53,7 @@ There are two types of shading in Blender:
 ```TAB``` to enter the edit mode, then ```OPTION + SELECT``` - select only some vertices
 <img width="710" alt="Screen Shot 2023-01-09 at 14 00 46" src="https://user-images.githubusercontent.com/79250896/211243643-256bf46c-9fbb-4e30-a697-e937ef8f1b78.png">
 
+### 0.5 Snapping tool
+
+If you want to extend an object over another object you can use the snapping tool. To do so in ```edit mode``` go to snapping tool in the top bar and select ```snap to face``` <img width="222" alt="Screen Shot 2023-01-09 at 14 05 32" src="https://user-images.githubusercontent.com/79250896/211244009-f4ff232b-66c5-4aab-a971-911d3fa69b96.png">
+
