@@ -14,8 +14,12 @@ This folder demonstrates my progress in learning 3D visualization with Blender, 
 ```H``` - hide  <br />
 ```OPTION + H ``` - reverse hide <br />
 ``` E ``` - extrude <br />
+```M``` - move (way to create a new Collection/ Blender folder)
 
+## Sculpting mode hot keys
 
+```F``` - change the size of the brush
+ 
 
 ## Emulate Numberpad
 
@@ -58,4 +62,14 @@ There are two types of shading in Blender:
 
 If you want to extend an object over another object you can use the snapping tool. To do so in ```edit mode``` go to snapping tool in the top bar and select ```snap to face``` <br />
 <img width="222" alt="Screen Shot 2023-01-09 at 14 05 32" src="https://user-images.githubusercontent.com/79250896/211244009-f4ff232b-66c5-4aab-a971-911d3fa69b96.png">
+
+
+### 0.6 Duplicating items
+
+```OPTION + D``` - duplicate 
+
+### Parenting items
+ 
+Select ```child item``` first 
+
 
