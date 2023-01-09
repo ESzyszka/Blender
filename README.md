@@ -68,10 +68,17 @@ If you want to extend an object over another object you can use the snapping too
 
 ```OPTION + D``` - duplicate 
 
-### Parenting items
+### 0.7 Parenting items
  
 Select ```child item``` first, then ```COMMAND + P```, next select the parent object and do the same short cut. You first select objects that are surposed to follow the parent. 
 
+### 0.8 Splitting the screen
+
+Right-click on the border, select ```split vertical``` or ```split horizontal```
+<img width="183" alt="Screen Shot 2023-01-09 at 16 32 02" src="https://user-images.githubusercontent.com/79250896/211259178-76635491-650b-4e86-8768-d9c6fedd5382.png">
+
+<img width="1243" alt="Screen Shot 2023-01-09 at 16 32 59" src="https://user-images.githubusercontent.com/79250896/211259274-580722be-abe4-4e57-82ba-ee7abdc3e637.png">
+ 
 
 ## 3D modelling terminology
 
