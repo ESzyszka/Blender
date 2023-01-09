@@ -8,12 +8,12 @@ This folder demonstrates my progress in learning 3D visualization with Blender, 
 ```G``` - grab (used to move objects, you can click X,Y,Z to move along an axis)  <br />
 ```click OBJECT + R``` - rotate  <br />
 ```click OBJECT + S``` - scale  <br />
-```0``` - camera view
-```SHIFT + A``` - add
-```TAB``` - edit mode
-```H``` - hide 
-```OPTION + H ``` - reverse hide
-``` E ``` - extrude
+```0``` - camera view <br />
+```SHIFT + A``` - add <br />
+```TAB``` - edit mode <br />
+```H``` - hide  <br />
+```OPTION + H ``` - reverse hide <br />
+``` E ``` - extrude <br />
 
 
 
