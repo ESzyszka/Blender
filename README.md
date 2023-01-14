@@ -82,14 +82,14 @@ Right-click on the border, select ```split vertical``` or ```split horizontal```
 
 ## 3D modelling terminology
 
-## 0.1 Unbiased vs biased rendering engine
+### 0.1 Unbiased vs biased rendering engine
 
 Cycles render engine (unbiased)
 EEvee render engine (biased/ real time)
 
-## 0.2 Raytracing
+### 0.2 Raytracing
 
-## 0.3 Retopology
+### 0.3 Retopology
 
 Way of simplifying the polygons of a 3D model. It is used before animating 3D objects
 
